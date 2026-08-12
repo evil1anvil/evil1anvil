@@ -9,7 +9,7 @@
 # Theme — directory under ./themes/. Built-ins:
 #   default | minimal-mono | editorial-serif | neo-brutalism
 #   glassmorphism | terminal-retro | paper-card | newsprint
-theme: glassmorphism
+theme: terminal-retro
 
 # HTML <html lang> attribute
 lang: "en"
