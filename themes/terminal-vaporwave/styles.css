@@ -303,8 +303,8 @@ a.photo-grid-item:hover img {
 }
 
 .icon-button {
-  width: 32px;
-  height: 32px;
+  width: 100px;
+  height: 100px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -318,7 +318,7 @@ a.photo-grid-item:hover img {
 }
 
 .icon-button i {
-  font-size: 14px;
+  font-size: 72px;
 }
 
 .icon-button:hover,
