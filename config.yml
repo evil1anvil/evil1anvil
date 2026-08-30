@@ -290,13 +290,13 @@ socials:
       title: "Telegram"
       alt: "My private channel"
       target: "_blank"
-
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/evil_anvil_official"
-      title: "Instagram"
-      alt: "Instagram"
-      target: "_blank"
+#
+#  - social:
+#      icon: "fa-brands fa-instagram"
+#      url: "https://www.instagram.com/evil_anvil_official"
+#      title: "Instagram"
+#      alt: "Instagram"
+#      target: "_blank"
 
   - social:
       icon: "fa-brands fa-twitch"
