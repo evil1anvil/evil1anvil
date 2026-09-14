@@ -312,6 +312,12 @@ socials:
       alt: "My 🥵 SPICY 🔥 X"
       target: "_blank"
 
+  - social:
+      icon: "fa-brands fa-discord"
+      url: "https://discord.gg/YXTGPGn7yT"
+      title: "Discord"
+      alt: "Join me on Discord"
+      target: "_blank"
 # -----------------------------------------------------------------------------
 # Footer (uses CountdownPlugin)
 # -----------------------------------------------------------------------------
