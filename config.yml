@@ -91,6 +91,28 @@ tagline: >-
 # Links
 # -----------------------------------------------------------------------------
 links:
+  - link:
+      text: |
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="28"
+          height="20"
+          viewBox="0 -5 40 28"
+          fill="currentColor">
+          <path
+            d="
+              M3 4h8.2
+              c3.7 0 6.1 2.1 6.1 5.2
+              c0 3.2-2.4 5.2-6.1 5.2H6.8V24H3V4zm3.8 3.5v3.4h4
+              c1.7 0 2.7-.6 2.7-1.7
+              c0-1.1-1-1.7-2.7-1.7H6.8z
+
+              M16.7 4h3.5v7.1h4.8V4h3.5v20H25v-9.4h-4.8V24h-3.5V4z" />
+        </svg> Pornhub
+      url: "https://www.pornhub.com/model/evil-anvil"
+      alt: "Watch my PH"
+      title: "Pornhub"
+      target: "_blank"
 
   - link:
       text: |
